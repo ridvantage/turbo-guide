@@ -4,7 +4,7 @@
 This is the readme for the Git Advanced demo. We're going to learn how to do advanced operations
 We'll learn how to do:
 
-1. Rebasing
+1. Rebasing vs Merging
 1. Commit amending
 1. Commit Squashing
 1. Disaster fixing
